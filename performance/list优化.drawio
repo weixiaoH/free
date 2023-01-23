@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T17:58:53.723Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="V_4VGxeLsW6lBe9MoOpq" version="20.8.10" type="github"><diagram name="第 1 页" id="h7guNUNuEZAvRdEFAoXu">7Vtbc6M2FP41mmkfkgEEGD+CL9npttOd8exu3zoyKEaNjLxCjpP++kogwBiwnawT2yl5iMXR/ZzvHH0cywCOlk93HK3iP1iEKbCM6AnAMbAsE7pQfijJcy5xHSMXLDiJdKNKMCP/Yi0smq1JhNNaQ8EYFWRVF4YsSXAoajLEOdvUm90zWp91hRa4IZiFiDal30kk4lzqWYNK/gmTRVzMbLrDvGaJisZ6J2mMIrbZEsEJgCPOmMhLy6cRpkp5hV7yftOO2nJhHCfimA4/vjp3Mf3N+Jv89Xn++SF8Fpv4xs5HeUR0rTesFyueCw3gJPKVIuVTSFGakhDAIBZLKgWmLHK2TiKsJjHkU3NVeqE4qilar/EOsyUW/Fk22FTqLTASb2m2kHFMkSCPdfMgbeVFOVw5wxdG5EosQyMSQj2OxqNn1EdI2ZqHWHfa1uaBcZzdgQTiCywaA8nC1q4rUWasFxjOazGcS6WuglXNfO6PtQJYQEmCbwp9+rKJqeDiZBYr2sjSQn9mI6UrlLQONkfhwyKz+03IKOP5iHwx/8VyHGDJHRnbhV+7ZkHLlSwk81R9gIkLAg8ElioMp2AITScrjoFvgokNAh/4AzBxZA3wzGKRUnv5Outrl+JVJduBdAVZBeBNTASerVCoajcyjNXxnQrOHkrnl7gK7gml3wto2qo1CuM1x3eq69irBH6yyKa0Hd1rlGtLrgGac2RiNVr6gEUY68k63ecRc4Gf9jpQUWvXkWkVSN1yMNNq8TDX6HamGnxfitXh9WO1gU0NSG+kABmYwJv2gDwSkHBwbkCabhOREw94ExBkAUYac+j6h8yE5imja4F9HmreYtYNhaoKo8OsK3U+ZNtzAuCMS+sWdiFJjDkRO9aqpDVbvQ4GLXBiiZiiJaHKYJ8wfcSChEhXFDsqGhZrivA9WlNxIsg4dciYhtOEjNECGdt5I8iUe9jDlFSYWR2/+5K0onkxgrFXK/auUlr86F2VYsLDSpG0d6WK4ZrT54DLaIzF4RhX9zSK5ph+YSkRhCVSRvG9GkNpVAKT/r5TvSRRpKYPECULJeC5LsoOvpaXDU/mRk1vOLl7dYbtvKdx67T64H5UH+2Zu7S3gcBBGwDfKpAXp8YWAGdYzAQSuDh357zz1JVbFjsRWwMjlGrDfB9iOJb61o5rtAZytBYsrc6FOj4SluAdWxaiFhB0ouWY4Puzhj9gW/hy235NMf9z/o96XbeMzLfzrmiDiNAboDIyxPJlHfP6C3yCltp63xAnmQEy+X6YWFtb07jai4NjjXU8XtriHZOt72n2Zh3Ldjh5rfllGBiNDPlXDKD3VsbOoCTBOxs4wVlt7Z7VpnnbEhfcNuxYty8/muTjFoBeEiyarO8LZ9E6FDMsqVp8AXRPGtIwlCmvivCVmS217IXKEYEDyaCfYILu2Zng4PKYoHtuJmi15aN6JnhFTHDQgc1rYYLNJFPPBE9s+A/ABOF2XO2Z4BszwcGFMkHYksyZDIA/BMFUZXhV/i+XjIE3vAxeOJ16Rs8LO3khPHuGEFoXxwvh2TOEsM8QXjcvLFF9pbwQNm849LzwxIb/CLzQ6Xnhu/FCeKkZQnjM98KKFw5t4HsZU/SyKvl/nEk8xSCDC6GMKpU4GvWUsYMy2vbZKePlpRJt++yUsU8lXjllvPJUIuxTia+kjP+rVKLdpxLfjzLazoVSRrvtXtj7XEl1FDH1XE1M87upQVaWNNQfKG4qqaoiphNV8EwQGJ2XVPfy1Q9+IdUxWzjPiS6kysfqJx755f/qhzJw8h8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-23T18:07:41.079Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="uUwX15vJvEcX-0qzfr6-" version="20.8.10" type="github">
+  <diagram name="第 1 页" id="h7guNUNuEZAvRdEFAoXu">
+    <mxGraphModel dx="1363" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="80" as="sourcePoint" />
+            <mxPoint x="330" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-8" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;渲染15条产品&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-9" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;渲染二屏&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-16" value="获取AB" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="150" y="105" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-21" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="40" y="100" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeColor=default;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#1ba1e2;size=0.5;" parent="qU5GhlJ0_iXKbKkcytwh-21" vertex="1">
+          <mxGeometry x="30" y="5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-20" value="SetState&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="qU5GhlJ0_iXKbKkcytwh-21" vertex="1">
+          <mxGeometry width="70" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="await" placeholders="1" name="Variable" id="qU5GhlJ0_iXKbKkcytwh-22">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=12;fontFamily=Helvetica;fontColor=#CC0000;fontStyle=1;labelBackgroundColor=none;" parent="1" vertex="1">
+            <mxGeometry x="250" y="111.25" width="60" height="32.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-26" value="ProductSearch" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#00CC00;fillColor=inherit;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;shadow=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="165" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-27" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="40" y="160" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeColor=default;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#1ba1e2;size=0.5;" parent="qU5GhlJ0_iXKbKkcytwh-27" vertex="1">
+          <mxGeometry x="30" y="5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-29" value="SetState&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="qU5GhlJ0_iXKbKkcytwh-27" vertex="1">
+          <mxGeometry width="70" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="await" placeholders="1" name="Variable" id="qU5GhlJ0_iXKbKkcytwh-30">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=12;fontFamily=Helvetica;fontColor=#CC0000;fontStyle=1;labelBackgroundColor=none;" parent="1" vertex="1">
+            <mxGeometry x="250" y="171.25" width="60" height="32.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-31" value="穿插、零少结果等" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#FF8000;fillColor=inherit;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;shadow=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="305" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-32" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="40" y="300" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-33" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeColor=default;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#1ba1e2;size=0.5;" parent="qU5GhlJ0_iXKbKkcytwh-32" vertex="1">
+          <mxGeometry x="30" y="5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-34" value="SetState&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="qU5GhlJ0_iXKbKkcytwh-32" vertex="1">
+          <mxGeometry width="70" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="await" placeholders="1" name="Variable" id="qU5GhlJ0_iXKbKkcytwh-35">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=12;fontFamily=Helvetica;fontColor=#CC0000;fontStyle=1;labelBackgroundColor=none;" parent="1" vertex="1">
+            <mxGeometry x="250" y="311.25" width="60" height="32.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-36" value="获取用户轨迹" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#00CCCC;fillColor=inherit;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;shadow=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="445" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-37" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="40" y="440" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-38" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeColor=default;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#1ba1e2;size=0.5;" parent="qU5GhlJ0_iXKbKkcytwh-37" vertex="1">
+          <mxGeometry x="30" y="5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-39" value="SetState&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="qU5GhlJ0_iXKbKkcytwh-37" vertex="1">
+          <mxGeometry width="70" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="await" placeholders="1" name="Variable" id="qU5GhlJ0_iXKbKkcytwh-40">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=12;fontFamily=Helvetica;fontColor=#CC0000;fontStyle=1;labelBackgroundColor=none;" parent="1" vertex="1">
+            <mxGeometry x="250" y="451.25" width="60" height="32.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-41" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;历史浏览置灰&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
