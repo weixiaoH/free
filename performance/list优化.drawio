@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T13:36:10.937Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="R8-0MFu5nS8wfDq9Xp_1" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T13:37:34.199Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sVBQgF-jsAX6k-4ZCoT6" version="20.8.10" type="github">
   <diagram name="第 1 页" id="h7guNUNuEZAvRdEFAoXu">
-    <mxGraphModel dx="1446" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1175" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,10 +91,10 @@
           <mxGeometry x="100" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q4ey1tj-G2VjlWOxj3wE-4" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;渲染6条产品&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;(头图/主副标题)&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="q4ey1tj-G2VjlWOxj3wE-38">
-          <mxGeometry x="400" y="151.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="388" y="151.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q4ey1tj-G2VjlWOxj3wE-5" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;渲染15条产品&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;(全量产品卡片信息)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;渲染穿插、零少结果&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;渲染尾屏&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="q4ey1tj-G2VjlWOxj3wE-38">
-          <mxGeometry x="400" y="290" width="120" height="148.75" as="geometry" />
+          <mxGeometry x="387" y="290" width="120" height="148.75" as="geometry" />
         </mxCell>
         <mxCell id="q4ey1tj-G2VjlWOxj3wE-6" value="解析url/获取AB&lt;br&gt;(Sync)" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=default;fillColor=inherit;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="q4ey1tj-G2VjlWOxj3wE-38">
           <mxGeometry x="400" y="31.25" width="100" height="45" as="geometry" />
