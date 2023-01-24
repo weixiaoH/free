@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T13:02:26.286Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vdR9pBD1VPTg7sdqegjP" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T13:09:49.751Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="fOdkVat8QDt1FBobK-mN" version="20.8.10" type="github">
   <diagram name="第 1 页" id="h7guNUNuEZAvRdEFAoXu">
-    <mxGraphModel dx="1446" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qU5GhlJ0_iXKbKkcytwh-4" value="" style="endArrow=classic;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" edge="1">
+        <mxCell id="qU5GhlJ0_iXKbKkcytwh-4" value="" style="endArrow=classic;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="80" as="sourcePoint" />
             <mxPoint x="330" y="580" as="targetPoint" />
@@ -87,13 +87,13 @@
         <mxCell id="qU5GhlJ0_iXKbKkcytwh-41" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;渲染尾屏&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="140" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q4ey1tj-G2VjlWOxj3wE-4" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;渲染6条产品&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="q4ey1tj-G2VjlWOxj3wE-4" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;渲染6条产品&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;(头图/主副标题)&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="480" y="231.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q4ey1tj-G2VjlWOxj3wE-5" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;渲染15条产品&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;渲染穿插、零少结果&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;渲染尾屏&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="q4ey1tj-G2VjlWOxj3wE-5" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;渲染15条产品&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;(全量产品卡片信息)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;渲染穿插、零少结果&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;渲染尾屏&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="480" y="371.25" width="120" height="148.75" as="geometry" />
         </mxCell>
-        <mxCell id="q4ey1tj-G2VjlWOxj3wE-6" value="sync获取AB" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="q4ey1tj-G2VjlWOxj3wE-6" value="获取AB&lt;br&gt;(Sync)" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="111.25" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="q4ey1tj-G2VjlWOxj3wE-7" value="" style="group;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="1">
@@ -123,15 +123,15 @@
           <mxGeometry x="20" y="6.25" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q4ey1tj-G2VjlWOxj3wE-19" value="SetState&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="q4ey1tj-G2VjlWOxj3wE-17">
-          <mxGeometry width="70" height="30" as="geometry" />
+          <mxGeometry x="-10" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q4ey1tj-G2VjlWOxj3wE-21" value="获取用户轨迹" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#00CCCC;fillColor=inherit;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="q4ey1tj-G2VjlWOxj3wE-21" value="获取用户轨迹&lt;br&gt;(Sync)" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#00CCCC;fillColor=inherit;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="660" y="312.5" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="q4ey1tj-G2VjlWOxj3wE-27" value="ProductSearch&lt;br&gt;全量数据(标签/起价/竞争力)" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#00CC00;fillColor=inherit;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="q4ey1tj-G2VjlWOxj3wE-27" value="ProductSearch&lt;br&gt;全量数据(标签/起价/竞争力)" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#00CC00;fillColor=inherit;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="172.5" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="q4ey1tj-G2VjlWOxj3wE-28" value="ProductSearch&lt;br&gt;全量数据" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#00CC00;fillColor=inherit;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;labelBorderColor=none;labelBackgroundColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="q4ey1tj-G2VjlWOxj3wE-28" value="ProductSearch&lt;br&gt;全量数据" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#00CC00;fillColor=inherit;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="311.25" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="q4ey1tj-G2VjlWOxj3wE-31" value="" style="endArrow=classic;html=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;entryX=0.645;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.465;exitY=1.056;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="q4ey1tj-G2VjlWOxj3wE-27" target="q4ey1tj-G2VjlWOxj3wE-28">
@@ -148,12 +148,12 @@
         </mxCell>
         <UserObject label="async" placeholders="1" name="Variable" id="q4ey1tj-G2VjlWOxj3wE-36">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=12;fontFamily=Helvetica;fontColor=#CC0000;fontStyle=1;labelBackgroundColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-            <mxGeometry x="690" y="172.5" width="60" height="32.5" as="geometry" />
+            <mxGeometry x="700" y="171.25" width="60" height="32.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="await" placeholders="1" name="Variable" id="q4ey1tj-G2VjlWOxj3wE-37">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=12;fontFamily=Helvetica;fontColor=#CC0000;fontStyle=1;labelBackgroundColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-            <mxGeometry x="767" y="317.5" width="60" height="32.5" as="geometry" />
+            <mxGeometry x="753" y="317.5" width="60" height="32.5" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
