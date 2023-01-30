@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T18:45:02.138Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sFT_VNnMMWvuU5KjZl_c" version="20.8.10" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-01-30T10:18:33.528Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="zHRkEU2KHCVSvczxLXNc" version="20.8.13" type="github" pages="6">
   <diagram id="XzzOEGBEEeZOdLrWtV-F" name="预加载">
-    <mxGraphModel dx="1846" dy="3525" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1267" dy="3255" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -414,7 +414,7 @@
             <mxPoint x="49" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mfMmbjf3MnCJ_iSkI04P-46" value="" style="endArrow=classic;html=1;rounded=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;strokeWidth=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;startSize=6;endSize=3;exitX=1;exitY=0.512;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;" parent="6Jb2i9Xm2xx4u5lKLtQn-2" source="mfMmbjf3MnCJ_iSkI04P-37" edge="1" target="mfMmbjf3MnCJ_iSkI04P-42">
+        <mxCell id="mfMmbjf3MnCJ_iSkI04P-46" value="" style="endArrow=classic;html=1;rounded=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;strokeWidth=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;startSize=6;endSize=3;exitX=1;exitY=0.512;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;" parent="6Jb2i9Xm2xx4u5lKLtQn-2" source="mfMmbjf3MnCJ_iSkI04P-37" target="mfMmbjf3MnCJ_iSkI04P-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="111" y="298" as="sourcePoint" />
             <mxPoint x="236" y="298" as="targetPoint" />
@@ -452,7 +452,7 @@
         </mxCell>
         <mxCell id="mfMmbjf3MnCJ_iSkI04P-58" value="" style="endArrow=none;html=1;hachureGap=4;strokeWidth=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;startArrow=classic;startFill=1;endFill=0;jumpSize=1;jumpStyle=gap;shadow=0;strokeColor=default;rounded=0;dashed=1;entryX=0.271;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="6Jb2i9Xm2xx4u5lKLtQn-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="494" y="69" as="sourcePoint" />
+            <mxPoint x="495" y="69" as="sourcePoint" />
             <mxPoint x="494.97" y="166.70500000000038" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
@@ -462,16 +462,16 @@
             <mxPoint x="-66" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mfMmbjf3MnCJ_iSkI04P-60" value="" style="endArrow=classic;html=1;rounded=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;strokeWidth=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;startSize=6;endSize=3;dashed=1;exitX=0.923;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;" parent="6Jb2i9Xm2xx4u5lKLtQn-2" edge="1">
+        <mxCell id="mfMmbjf3MnCJ_iSkI04P-60" value="" style="endArrow=classic;html=1;rounded=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;strokeWidth=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;startSize=6;endSize=3;dashed=1;exitX=0.921;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="6Jb2i9Xm2xx4u5lKLtQn-2" edge="1" source="mfMmbjf3MnCJ_iSkI04P-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="512.5740000000001" y="68.07199999999966" as="sourcePoint" />
             <mxPoint x="514" y="167" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mfMmbjf3MnCJ_iSkI04P-61" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;降级保护response&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#000000;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=default;" parent="mfMmbjf3MnCJ_iSkI04P-60" connectable="0" vertex="1">
+        <mxCell id="mfMmbjf3MnCJ_iSkI04P-61" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;兜底response&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#000000;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=default;" parent="mfMmbjf3MnCJ_iSkI04P-60" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="73" y="8" as="offset" />
+            <mxPoint x="61" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
