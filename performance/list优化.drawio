@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T14:57:06.549Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yiZFNBuesClDe9w-h31r" version="24.4.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-05-19T14:57:27.261Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="N9qVoBHAlLio2xLalQy4" version="24.4.4" type="github" pages="6">
   <diagram id="XzzOEGBEEeZOdLrWtV-F" name="预加载">
     <mxGraphModel dx="1340" dy="3271" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -974,7 +974,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YYqNy8N8uYOW1wgzd_vN" name="第 6 页">
-    <mxGraphModel dx="3189" dy="1753" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2677" dy="1463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1186,7 +1186,7 @@
           <mxGeometry x="4" y="78" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="urnGebALfBGpEcx6rGe1-145" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="441" y="158" width="20" height="332" as="geometry" />
+          <mxGeometry x="441" y="159" width="20" height="332" as="geometry" />
         </mxCell>
         <mxCell id="urnGebALfBGpEcx6rGe1-146" value="核心业务逻辑层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=1;textDirection=vertical-lr;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="349" y="315" width="130" height="30" as="geometry" />
