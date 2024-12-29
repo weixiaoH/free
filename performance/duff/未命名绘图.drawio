@@ -108,6 +108,15 @@
             <mxPoint x="362" y="414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="15z_9Vu5hqTHAmMJUOph-1" value="startTime" style="rounded=1;whiteSpace=wrap;fontFamily=Comic Sans MS;html=1;strokeColor=default;glass=0;labelBackgroundColor=none;textShadow=0;labelBorderColor=none;shadow=1;align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=#FFFFFF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="87" y="513" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="15z_9Vu5hqTHAmMJUOph-2" value="isTestServer" style="rounded=1;whiteSpace=wrap;fontFamily=Comic Sans MS;html=1;strokeColor=default;glass=0;labelBackgroundColor=none;textShadow=0;labelBorderColor=none;shadow=1;align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=#FFFFFF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="296" y="513" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="15z_9Vu5hqTHAmMJUOph-3" value="soaTimeoutConfig" style="rounded=1;whiteSpace=wrap;fontFamily=Comic Sans MS;html=1;strokeColor=default;glass=0;labelBackgroundColor=none;textShadow=0;labelBorderColor=none;shadow=1;align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=#FFFFFF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="501" y="513" width="140" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
